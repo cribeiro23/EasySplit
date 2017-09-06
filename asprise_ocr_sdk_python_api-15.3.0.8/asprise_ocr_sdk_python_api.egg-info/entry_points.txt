@@ -1,0 +1,3 @@
+[console_scripts]
+asprise_ocr = asprise_ocr_api.ocr_app:run_ocr_app
+

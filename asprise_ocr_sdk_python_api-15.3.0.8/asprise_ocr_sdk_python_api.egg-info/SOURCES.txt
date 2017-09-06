@@ -1,0 +1,13 @@
+MANIFEST.in
+README.rst
+setup.py
+asprise_ocr_api/__init__.py
+asprise_ocr_api/aocr.xsl
+asprise_ocr_api/icon.ico
+asprise_ocr_api/ocr.py
+asprise_ocr_api/ocr_app.py
+asprise_ocr_sdk_python_api.egg-info/PKG-INFO
+asprise_ocr_sdk_python_api.egg-info/SOURCES.txt
+asprise_ocr_sdk_python_api.egg-info/dependency_links.txt
+asprise_ocr_sdk_python_api.egg-info/entry_points.txt
+asprise_ocr_sdk_python_api.egg-info/top_level.txt

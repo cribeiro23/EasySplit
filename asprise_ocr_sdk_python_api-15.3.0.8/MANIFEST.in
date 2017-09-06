@@ -1,0 +1,9 @@
+include README.rst
+include INSTALL
+recursive-include asprise_ocr_api *
+recursive-exclude tests *
+recursive-exclude * __pycache__
+recursive-exclude * *.py[co]
+recursive-exclude * *.dll
+recursive-exclude * *.so
+recursive-exclude * *.dylib
