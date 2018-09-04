@@ -1,6 +1,6 @@
 # EasySplit
 Future mobile application to facilitate check-splitting in restaurants and other locations. The application is still currently in
-proof-of-concept phase, with Python code to handle the basic logic and create GUI to demonstrate intended core functionality of the
+proof-of-concept phase, with Python handling the basic logic and creating GUI to demonstrate intended core functionality of the
 application.
 
 To use, clone the repo and obtain a free-trial of the Asprise OCR software from https://asprise.com/royalty-free-library/python-ocr-api-overview.html 
