@@ -6,7 +6,7 @@
 #
 
 # Importing necessary functions
-from Python_Asprise_Test import doOcr
+from ReadImage import doOcr
 from parseCheck import parseCheck
 from handleGUI import handleGUI
 from ProductClass import Product
